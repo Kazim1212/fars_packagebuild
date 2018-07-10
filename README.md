@@ -1,6 +1,15 @@
-## farsdata Package - A Coursera Project
+##  A Coursera Project - FARS Package
 
 This is the final assignment of Coursera Building R Package
+
+### Travis Badge
+
+[![Build Status](https://travis-ci.org/Kazim1212/fars_packagebuild.svg?branch=master)](https://travis-ci.org/Kazim1212/fars_packagebuild)
+
+### Appveyor Badge
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2suo6oehatx7oejy/branch/master?svg=true)](https://ci.appveyor.com/project/Kazim1212/fars-packagebuild/branch/master)
+
 
 
 
@@ -17,15 +26,6 @@ library(farsdata)
 
 
 To get started, read the introduction vignette: `vignette('introduction', package = 'farsdata')`.
-
-### Travis Badge
-
-[![Build Status](https://travis-ci.org/Kazim1212/fars_packagebuild.svg?branch=master)](https://travis-ci.org/Kazim1212/fars_packagebuild)
-
-### Appveyor Badge
-
-[![Build status](https://ci.appveyor.com/api/projects/status/2suo6oehatx7oejy/branch/master?svg=true)](https://ci.appveyor.com/project/Kazim1212/fars-packagebuild/branch/master)
-
 
 
 

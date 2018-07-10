@@ -21,3 +21,8 @@ To get started, read the introduction vignette: `vignette('introduction', packag
 
 [![Build Status](https://travis-ci.org/Kazim1212/fars_packagebuild.svg?branch=master)](https://travis-ci.org/Kazim1212/fars_packagebuild)
 
+### Appveyor Badge
+
+[![Build status](https://ci.appveyor.com/api/projects/status/2suo6oehatx7oejy?svg=true)](https://ci.appveyor.com/project/Kazim1212/fars-packagebuild)
+
+

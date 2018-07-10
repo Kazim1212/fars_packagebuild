@@ -19,4 +19,5 @@ To get started, read the introduction vignette: `vignette('introduction', packag
 
 ### Travis Badge
 
+[![Build Status](https://travis-ci.org/Kazim1212/fars_packagebuild.svg?branch=master)](https://travis-ci.org/Kazim1212/fars_packagebuild)
 

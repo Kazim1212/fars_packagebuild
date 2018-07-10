@@ -1,8 +1,8 @@
 ## farsdata Package - A Coursera Project
 
-This R package is submitted as the Week 4 final assignment for the "Building R Packages" course on Coursera, as part of the Johns Hopkins University "Mastering Software Development in R" specialization.
+This is the final assignment of Coursera Building R Package
 
-Date: Dec 3, 2016 
+
 
 ### Installation
 

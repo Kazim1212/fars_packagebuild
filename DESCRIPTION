@@ -3,9 +3,7 @@ Type: Package
 Title: FARS Data Tools
 Version: 0.0.1
 Authors@R: person('Syed', 'Kazim', email = 'kazim@mail.com', role = c('aut', 'cre'))
-Description: This R package is submitted as the Week 4 final assignment for the 
-    "Building R Packages" course on Coursera, as part of the Johns Hopkins 
-    University "Mastering Software Development in R" specialization.
+Description: Building R Packages course on Coursera
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
